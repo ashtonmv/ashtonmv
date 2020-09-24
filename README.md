@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hi there! I'm Michael, a computational materials scientist by day and a computational materials scientist by night.
+  Hi there! I'm Michael, a solid state physicist by day and also a programmer by day. By night I mainly sleep.
 </p>
 
 <h2 align="center">
