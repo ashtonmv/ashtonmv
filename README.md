@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](images/banner.gif)
+![](banner.gif)
 
 I'm Michael, a materials scientist by trade who is slowly but surely learning to use his computer.
 
