@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hi there! I'm Michael, a materials scientist by trade who is slowly but surely learning to use his computer.
+  Hi there! I'm Michael, a computational materials scientist by day and a computational materials scientist by night.
 </p>
 
 <h2 align="center">
