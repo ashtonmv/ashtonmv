@@ -4,10 +4,10 @@
   Hi there! I'm Michael, a materials scientist by trade who is slowly but surely learning to use his computer.
 </p>
 
-<p align="center">
+<h2 align="center">
   <a href="https://www.michael-ashton.com">michael-ashton.com</a>
   <hr>
-</p>
+</h2>
 
 :microscope: My research interests are pretty diverse, but generally revolve around
 computational modeling of surfaces (including 2D materials!) and their behavior in exotic environments (like big electric fields!)
