@@ -1,4 +1,4 @@
-![](banner.gif)
+![](Banner.gif)
 
 <p align="center">
   Hi there! I'm Michael, a materials scientist by trade who is slowly but surely learning to use his computer.
