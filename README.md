@@ -6,7 +6,6 @@
 
 <h2 align="center">
   <a href="https://www.michael-ashton.com">michael-ashton.com</a>
-  <hr>
 </h2>
 
 :microscope: My research interests are pretty diverse, but generally revolve around
