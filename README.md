@@ -17,19 +17,19 @@
 computational modeling of surfaces (including 2D materials!) and their behavior in exotic environments (like big electric fields!)
 You can see more of my scientific profile on [google scholar](https://scholar.google.com/citations?user=SgAQKZIAAAAJ&hl=en).
 
-:sparkle: As for my coding projects, I broadly categorize them like this:
+:octocat: As for my coding projects, I broadly categorize them like this:
 
 Scientific (Python) projects
 ---
-- [pyiron](https://github.com/pyiron/pyiron)
-- [MPInterfaces](https://github.com/henniggroup/mpinterfaces)
 - [twod_materials](https://github.com/ashtonmv/twod_materials)
-- [pyrho](https://github.com/ashtonmv/pyrho))
+- [pyrho](https://github.com/ashtonmv/pyrho)
+- [pyiron](https://github.com/pyiron/pyiron) (contributor)
+- [MPInterfaces](https://github.com/henniggroup/mpinterfaces) (contributor)
 
 Web Templates (Jekyll)
 ---
-- [particular](https://github.com/ashtonmv/particular)
-- [sprinkl](https://github.com/ashtonmv/sprinkl)
+- [particular](https://github.com/ashtonmv/particular): A theme I built for personal websites like [my own](https://www.michael-ashton.com)
+- [sprinkl](https://github.com/ashtonmv/sprinkl): A theme I built for app landing pages like [pyiron.org](https://pyiron.org)
 
 Just For Fun
 ---
