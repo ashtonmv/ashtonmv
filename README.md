@@ -1,4 +1,6 @@
-![](Banner.gif)
+<p align="center">
+  <img src="Github_banner.gif" width="250px"/>
+</p>
 
 <p align="center">
   Hi there! I'm Michael, a materials scientist by trade who is slowly but surely learning to use his computer.
