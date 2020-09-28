@@ -26,7 +26,7 @@ Scientific (Python) projects
 Web Templates (Jekyll)
 ---
 - [particular](https://github.com/ashtonmv/particular): A theme I built for personal websites like [my own](https://www.michael-ashton.com)
-- [sprinkl](https://github.com/ashtonmv/sprinkl): A theme I built for app landing pages like [pyiron.org](https://pyiron.org)
+- [callysto](https://github.com/ashtonmv/callysto): A theme I built for app landing pages like [pyiron.org](https://pyiron.org)
 
 Just For Fun
 ---
