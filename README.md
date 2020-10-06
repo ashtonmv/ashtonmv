@@ -18,9 +18,9 @@ You can see more of my scientific profile on [google scholar](https://scholar.go
 
 Scientific (Python) projects
 ---
-- [twod_materials](https://github.com/ashtonmv/twod_materials)
-- [pyrho](https://github.com/ashtonmv/pyrho)
-- [nbjuniper](https://github.com/ashtonmv/nbjuniper)
+- [twod_materials](https://github.com/ashtonmv/twod_materials): Tools and algorithms for analyzing 2D materials in DFT
+- [pyrho](https://github.com/ashtonmv/pyrho): A real-space DFT code for learners
+- [nbjuniper](https://github.com/ashtonmv/nbjuniper): Convert Ipython notebooks and Jupyter-book documentation to [Juniper](https://github.com/ines/juniper) notebooks
 - [pyiron](https://github.com/pyiron/pyiron) (contributor)
 - [MPInterfaces](https://github.com/henniggroup/mpinterfaces) (contributor)
 
@@ -31,7 +31,7 @@ Web Templates (Jekyll)
 
 Just For Fun
 ---
-Everything else: custom Atom themes and one-off gists, etc.
+Everything else: custom Atom editor themes and one-off gists, etc.
 </p>
 
 ---
