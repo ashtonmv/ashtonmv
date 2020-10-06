@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hi there! I'm Michael, a solid state physicist by day and also a programmer by day. By night I mainly sleep.
+  Hey! I'm Michael, a solid state physicist by day and also a programmer by day. By night I mainly sleep.
 </p>
 
 <h2 align="center">
@@ -20,6 +20,7 @@ Scientific (Python) projects
 ---
 - [twod_materials](https://github.com/ashtonmv/twod_materials)
 - [pyrho](https://github.com/ashtonmv/pyrho)
+- [nbjuniper](https://github.com/ashtonmv/nbjuniper)
 - [pyiron](https://github.com/pyiron/pyiron) (contributor)
 - [MPInterfaces](https://github.com/henniggroup/mpinterfaces) (contributor)
 
