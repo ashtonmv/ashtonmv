@@ -3,14 +3,15 @@
 </p>
 
 <p align="center">
-  Hey! I'm Michael, a front-end developer by day and also a designer by day. By night I mainly sleep.
+  Hey! I'm Michael, a front-end developer and closet light-mode user.
 </p>
 
 <h2 align="center">
   <a href="https://www.michael-ashton.com">michael-ashton.com</a>
 </h2>
 
-:microscope: I used to be a scientist. My research interests generally revolved around
+:microscope: A lot of the code I host here comes from my 4-year PhD study at the University of Florida and later
+3-year postdoc at the Max Planck Institut fur Eisenforschung. My research interests have generally revolved around
 modeling material surfaces (especially 2D materials!) and probing their behavior in exotic environments.
 You can see more of my scientific profile on [google scholar](https://scholar.google.com/citations?user=SgAQKZIAAAAJ&hl=en).
 
