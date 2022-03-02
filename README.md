@@ -7,7 +7,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://www.michael-ashton.com">michael-ashton.com</a>
+  <a href="https://mashton.io">mashton.io</a>
 </h2>
 
 :microscope: A lot of the code I host here comes from my 4-year PhD study at the University of Florida and later
